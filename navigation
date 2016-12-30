@@ -1,0 +1,48 @@
+ <span class="leader">ADAM<br />
+    SUNDBERG<br />
+  </span>
+  <br />
+
+<div class="menu_list" id="secondpane"> <!--Code for menu starts here; firstpane is click to slide, secondpane is on mouseover-->
+		<p class="menu_head"><a href="contact.shtml">CONTACT</a></p>
+        <p class="menu_head"><a href="bio.shtml">BIO</a></p>
+        <p class="menu_head"><a href="cv.shtml">CV</a></p>
+        <p class="menu_head">RESEARCH & TEACHING</p>
+        <div class="menu_body">
+			<a href="Researchstatement.shtml">RESEARCH STATEMENT</a>
+            <a href="Storymap1.shtml">RESEARCH STORY MAP 2015</a>
+			<a href="Teachingstatement.shtml">TEACHING STATEMENT</a>
+            <a href="GlobalEHSyl.shtml">SYLLABUS- Global Environmental History</a>
+            <a href="https://spark.adobe.com/page/hKB5g/">SYLLABUS- Mapping History: Cartography from the Early Modern to the            Digital Age</a>           
+        </div>
+        <p class="menu_head">ENVIRONMENTAL HISTORY</p>
+        <div class="menu_body">
+			<a href="http://www.environmentandsociety.org/">ENVIRONMENTAL AND SOCIETY PORTAL</a>     
+        </div>
+        <p class="menu_head">CLIMATE HISTORY</p>
+		<div class="menu_body">
+			<a href="climatehistory.shtml">
+RETHINKING HISTORY IN THE LIGHT OF ANTHROPOGENIC CLIMATE CHANGE</a>
+<a href="http://climatehistorynetwork.com/">CLIMATE HISTORY NETWORK</a>
+		</div>
+        <p class="menu_head">ENVIRONMENTAL HISTORY &amp; ART HISTORY</p>
+		<div class="menu_body">
+			<a href="artandhistory.shtml">HISTORIOGRAPHY</a>
+            <a href="https://www.rijksmuseum.nl/en/rijksstudio/96708--adam-sundberg/collections?ii=0">Rijksmuseum Rijksstudio            Collection</a>
+            <a href="https://www.google.com/culturalinstitute/beta/">Google Arts and Culture</a>
+            <a href="http://www.europeana.eu/portal/">Europeana</a>
+		</div>
+        <p class="menu_head">HISTORY &amp; MAPPING</p>
+		<div class="menu_body">
+        	<a href="CattleinHolland.shtml">Cattle Plague in South Holland</a>
+			<a href="WebMap.shtml">West Feliciana Web Map</a>
+            <a href="DeHooghe.shtml">De Hooghe's Period of Disaster</a>
+            <a href="http://www.davidrumsey.com/">DAVID RUMSEY</a>
+            <a href="http://www.lib.utexas.edu/maps/">PERRY-CASTA&Ntilde;EDA</a>
+            <a href="http://www.oldmapsonline.org/">Old Maps Online</a>
+		</div>
+        <p class="menu_head"><a href="http://www.adamsundberg.com/blog/">MAPPING ENVIRONMENTS BLOG</a></p>
+        </div>
+        
+		      
+  </div>      <!--Code for menu ends here-->
